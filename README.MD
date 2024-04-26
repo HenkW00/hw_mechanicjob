@@ -3,7 +3,7 @@
 **Description**
 Rev up your FiveM server with hw_mechanicjob! This script brings immersive mechanic roleplay, customizable experiences, and dynamic gameplay to your community. Powered by ox_lib, it offers seamless interactions and endless possibilities for gearheads and server owners alike.
 
-**Note from the developer**
+# **Note from the developer**
 As for now, this is NOT a tuning script.
 Its supposed to level up the RP for mechanics in repairing, and helping customers.
 Maybe i will add a tuning part, but im not sure yet!
